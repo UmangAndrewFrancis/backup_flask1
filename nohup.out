@@ -301,3 +301,7 @@ remote:      https://github.com/UmangAndrewFrancis/backup_flask1/network/alerts
 remote: 
 To https://github.com/UmangAndrewFrancis/backup_flask1.git
    4137748..bf3c66d  master -> master
+[master c592cad] new commit
+ 2 files changed, 21 insertions(+)
+fatal: remote origin already exists.
+Reinitialized existing Git repository in /home/site/wwwroot/.git/
