@@ -515,3 +515,19 @@ Reinitialized existing Git repository in /home/site/wwwroot/.git/
  1 file changed, 16 insertions(+)
 fatal: remote origin already exists.
 Reinitialized existing Git repository in /home/site/wwwroot/.git/
+[master 3a5fe25] new commit
+ 1 file changed, 4 insertions(+)
+remote: 
+remote: GitHub found 2 vulnerabilities on UmangAndrewFrancis/backup_flask1's default branch (2 high). To find out more, visit:        
+remote:      https://github.com/UmangAndrewFrancis/backup_flask1/network/alerts        
+remote: 
+fatal: remote origin already exists.
+To https://github.com/UmangAndrewFrancis/backup_flask1.git
+   ae8cb26..455d1be  master -> master
+remote: 
+remote: GitHub found 2 vulnerabilities on UmangAndrewFrancis/backup_flask1's default branch (2 high). To find out more, visit:        
+remote:      https://github.com/UmangAndrewFrancis/backup_flask1/network/alerts        
+remote: 
+To https://github.com/UmangAndrewFrancis/backup_flask1.git
+   455d1be..3a5fe25  master -> master
+Reinitialized existing Git repository in /home/site/wwwroot/.git/
