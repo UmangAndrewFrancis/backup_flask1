@@ -1,1 +1,13 @@
 Reinitialized existing Git repository in /home/site/wwwroot/.git/
+[master 47f05a3] new commit
+ 3 files changed, 503 insertions(+)
+ create mode 100644 every5sec.sh
+ create mode 100644 nohup.out
+fatal: remote origin already exists.
+remote: 
+remote: GitHub found 2 vulnerabilities on UmangAndrewFrancis/backup_flask1's default branch (2 high). To find out more, visit:        
+remote:      https://github.com/UmangAndrewFrancis/backup_flask1/network/alerts        
+remote: 
+To https://github.com/UmangAndrewFrancis/backup_flask1.git
+   8a0e56f..47f05a3  master -> master
+Reinitialized existing Git repository in /home/site/wwwroot/.git/
