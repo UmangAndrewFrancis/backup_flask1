@@ -171,3 +171,7 @@ remote:
 To https://github.com/UmangAndrewFrancis/backup_flask1.git
    04e48bf..679632b  master -> master
 Reinitialized existing Git repository in /home/site/wwwroot/.git/
+[master 7aa18ac] new commit
+ 1 file changed, 16 insertions(+)
+fatal: remote origin already exists.
+Reinitialized existing Git repository in /home/site/wwwroot/.git/
