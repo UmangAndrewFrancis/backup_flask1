@@ -10,7 +10,9 @@ cd /home/site/wwwroot ; git add .
 
 cd /home/site/wwwroot ; git commit -m "new commit"
 
+set +e
 cd /home/site/wwwroot ; git remote add origin https://umangandrewfrancis:andrewassassin32@github.com/UmangAndrewFrancis/backup_flask1.git
+set -e
 
 cd /home/site/wwwroot ; git push prigin master
 
