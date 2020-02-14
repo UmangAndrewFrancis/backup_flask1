@@ -379,3 +379,15 @@ remote:
 remote: GitHub found 2 vulnerabilities on UmangAndrewFrancis/backup_flask1's default branch (2 high). To find out more, visit:        
 remote:      https://github.com/UmangAndrewFrancis/backup_flask1/network/alerts        
 remote: 
+To https://github.com/UmangAndrewFrancis/backup_flask1.git
+   6e4dd08..2f24d56  master -> master
+[master 4850640] new commit
+ 1 file changed, 14 insertions(+)
+fatal: remote origin already exists.
+remote: 
+remote: GitHub found 2 vulnerabilities on UmangAndrewFrancis/backup_flask1's default branch (2 high). To find out more, visit:        
+remote:      https://github.com/UmangAndrewFrancis/backup_flask1/network/alerts        
+remote: 
+To https://github.com/UmangAndrewFrancis/backup_flask1.git
+   2f24d56..4850640  master -> master
+Reinitialized existing Git repository in /home/site/wwwroot/.git/
