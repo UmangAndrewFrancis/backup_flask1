@@ -14,7 +14,8 @@ def hello():
     logging.warning("Its a Warning") 
     logging.error("Did you try to divide by zero") 
     logging.critical("Internet is down") 
-    return render_template('home.html')
+    return 'hello new'
+    #return render_template('home.html')
 
 @app.route('/post', methods = ["POST"])
 def post():
